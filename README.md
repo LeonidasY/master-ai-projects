@@ -7,11 +7,15 @@ The projects were done for the course exams or on my own initiative to deepen my
 The projects are included as .ipynb files and can be viewed using the **Jupyter nbviewer links** below (preferred) or via Jupyter notebooks directly on a deskstop.
 
 ### Image Processing and Computer Vision
-- [Fruit Inspection](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/fruit-inspection/fruit-inspection.ipynb?flush_cache=true)\
+- [Fruit Inspection](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/fruit-inspection/fruit-inspection.ipynb)\
   Develop a computer vision system aimed at locating defects and imperfections on fruits.
-- [Product Recognition](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/product-recognition/product-recognition.ipynb?flush_cache=true)\
-  Develop a computer vision system that, given a reference image for a product, is able to identify instances of the product from images of a store shelf.
+- [Product Recognition](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/product-recognition/product-recognition.ipynb)\
+  Develop a computer vision system to identify instances of the product from images of a store shelf using keypoint descriptors.
   
 ### Fundamentals of Artificial Intelligence and Knowledge Representation
-- [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb?flush_cache=true)\
-  Develop a Bayesian network to model and study the probabilistic relationship between the causes of a state's collapse.
+- [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb)\
+  Develop a Bayesian network to model and study the conditional dependencies between the causes of a state's collapse.
+
+### Combinatorial Decision Making and Optimisation
+- [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb)\
+  Develop a model to optimise the government stay home policy during the COVID pandemic using non-linear programming.
