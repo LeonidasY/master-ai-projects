@@ -17,5 +17,5 @@ The projects are included as .ipynb files and can be viewed using the **Jupyter 
   Develop a Bayesian network to model and study the conditional dependencies between the causes of a state's collapse.
 
 ### Combinatorial Decision Making and Optimisation
-- [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb)\
+- [Lockdown Optimisation](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb)\
   Develop a model to optimise the government stay home policy during the COVID pandemic using non-linear programming.
