@@ -18,4 +18,4 @@ The projects are included as .ipynb files and can be viewed using the **Jupyter 
 
 ### Combinatorial Decision Making and Optimisation
 - [Lockdown Optimisation](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb)\
-  Develop a model to optimise the government stay home policy during the COVID pandemic using non-linear programming.
+  Develop a model to optimise the government's stay home policy during the COVID pandemic using non-linear programming.
