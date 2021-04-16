@@ -2,7 +2,7 @@
 
 The following repository contains my student projects for the **Master in Artificial Intelligence** at the **University of Bologna**. More information about the programme and its teaching contents can be found [here](https://corsi.unibo.it/2cycle/artificial-intelligence/course-structure-diagram/piano?code=9063&year=2020&manifest=en_2020_9063_000_000_2020). 
 
-The projects were done for the course exams or on my own initiative to deepen my practical knowledge of the theories taught. 
+The projects were done for the course exams to deepen my practical knowledge of the theories taught. 
 
 The projects are included as .ipynb files and can be viewed using the **Jupyter nbviewer links** below (preferred) or via Jupyter notebooks directly on a deskstop.
 
