@@ -19,3 +19,7 @@ The projects are included as .ipynb files and can be viewed using the **Jupyter 
 ### Combinatorial Decision Making and Optimisation
 - [Lockdown Optimisation](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb)\
   Develop a model to optimise the government's stay home policy during the COVID pandemic using non-linear programming.
+
+### Deep Learning
+- [Food Segmentation](https://nbviewer.jupyter.org/github/lucamarini22/food-recognition-challenge/blob/main/food-segmentation-model.ipynb)\
+  Develop a model to recognise and segment food items in each image.
