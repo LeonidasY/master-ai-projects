@@ -21,5 +21,5 @@ The projects are included as .ipynb files and can be viewed using the **Jupyter 
   Develop a model to optimise the government's stay home policy during the COVID pandemic using non-linear programming.
 
 ### Deep Learning
-- [Food Segmentation](https://nbviewer.jupyter.org/github/lucamarini22/food-recognition-challenge/blob/main/food-segmentation-model.ipynb)\
+- [Food Recognition](https://nbviewer.jupyter.org/github/lucamarini22/food-recognition-challenge/blob/main/food-segmentation-model.ipynb)\
   Develop a model to recognise and segment food items in each image.
