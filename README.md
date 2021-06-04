@@ -4,10 +4,8 @@ The following repository contains my student projects for the **Master in Artifi
 
 The projects were done for the course exams to deepen my practical knowledge of the theories taught. 
 
-The projects are included as .ipynb files and can be viewed using the **Jupyter nbviewer links** below (preferred) or via Jupyter notebooks directly on a deskstop.
-
 ### Image Processing and Computer Vision
-- [Fruit Inspection](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/fruit-inspection/fruit-inspection.ipynb)\
+- [Fruit Inspection](https://github.com/LeonidasY/master-ai-projects/tree/main/fruit-inspection)\
   Develop a computer vision system aimed at locating defects and imperfections on fruits.
 - [Product Recognition](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/product-recognition/product-recognition.ipynb)\
   Develop a computer vision system to identify instances of the product from images of a store shelf using keypoint descriptors.
