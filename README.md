@@ -7,7 +7,7 @@ The projects were done for the course exams to deepen my practical knowledge of 
 ### Image Processing and Computer Vision
 - [Fruit Inspection](https://github.com/LeonidasY/master-ai-projects/tree/main/fruit-inspection)\
   Develop a computer vision system aimed at locating defects and imperfections on fruits.
-- [Product Recognition](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/product-recognition/product-recognition.ipynb)\
+- [Product Recognition](https://github.com/LeonidasY/master-ai-projects/tree/main/product-recognition)\
   Develop a computer vision system to identify instances of the product from images of a store shelf using keypoint descriptors.
   
 ### Fundamentals of Artificial Intelligence and Knowledge Representation
