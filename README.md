@@ -20,4 +20,4 @@ The projects were done for the course exams to deepen my practical knowledge of 
 
 ### Deep Learning
 - [Food Recognition](https://github.com/lucamarini22/food-recognition-challenge)\
-  Develop a model to recognise and segment food items of 273 categories in each image.
+  Develop a computer vision system to recognise and segment food items in images from 273 different categories.
