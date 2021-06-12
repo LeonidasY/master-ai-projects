@@ -15,10 +15,10 @@ The project is included as a .ipynb file and can be viewed using the [Jupyter nb
 Example images below show the recognition and product outline of each task.
 
 ### First Task
-![](https://github.com/LeonidasY/master-ai-projects/blob/main/product-recognition/result/first_task.PNG)
+![](https://github.com/LeonidasY/master-ai-projects/blob/main/product-recognition/results/first_task.PNG)
 
 ### Second Task
-![](https://github.com/LeonidasY/master-ai-projects/blob/main/product-recognition/result/second_task.PNG)
+![](https://github.com/LeonidasY/master-ai-projects/blob/main/product-recognition/results/second_task.PNG)
 
 ### Final Challenge
-![](https://github.com/LeonidasY/master-ai-projects/blob/main/product-recognition/result/final_challenge.PNG)
+![](https://github.com/LeonidasY/master-ai-projects/blob/main/product-recognition/results/final_challenge.PNG)
