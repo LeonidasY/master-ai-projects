@@ -16,10 +16,10 @@ The project is included as a .ipynb file and can be viewed using the [Jupyter nb
 Example images below show the defect detection of each task.
 
 ### First Task
-![](https://github.com/LeonidasY/master-ai-projects/blob/main/fruit-inspection/result/first_task.PNG)
+![](https://github.com/LeonidasY/master-ai-projects/blob/main/fruit-inspection/results/first_task.PNG)
 
 ### Second Task
-![](https://github.com/LeonidasY/master-ai-projects/blob/main/fruit-inspection/result/second_task.PNG)
+![](https://github.com/LeonidasY/master-ai-projects/blob/main/fruit-inspection/results/second_task.PNG)
 
 ### Final Challenge
-![](https://github.com/LeonidasY/master-ai-projects/blob/main/fruit-inspection/result/final_challenge.PNG)
+![](https://github.com/LeonidasY/master-ai-projects/blob/main/fruit-inspection/results/final_challenge.PNG)
