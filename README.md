@@ -18,6 +18,10 @@ The projects were done for the course exams to deepen my practical knowledge of 
 - [Lockdown Optimisation](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb)\
   Develop a model to optimise the government's stay home policy during the COVID pandemic using non-linear programming.
 
+### Machine Learning
+- [ECommerce Analysis](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/ecommerce-analysis/ecommerce-analysis.ipynb)\
+  Analyse the transactions of an ecommerce data and develop a model to forecast future daily users over a period of 30 days.
+
 ### Deep Learning
 - [Food Recognition](https://github.com/lucamarini22/food-recognition-challenge)\
   Develop a computer vision system to recognise and segment food items in images from 273 different categories.
