@@ -20,8 +20,8 @@ The projects were done for the course exams to deepen my practical knowledge of 
   Develop a model to optimise the government's stay home policy during the COVID pandemic using non-linear programming.
 
 ### Machine Learning
-- [ECommerce Analysis](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/ecommerce-analysis/ecommerce-analysis.ipynb?flush_cache=True)\
-  Analyse the transactions of an ecommerce data and develop a model to forecast future daily users over a period of 30 days.
+- [Ecommerce Analysis](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/ecommerce-analysis/ecommerce-analysis.ipynb?flush_cache=True)\
+  Analyse the transactions of an ecommerce data and develop a model to forecast future daily users over a period of 8 weeks.
 
 ### Deep Learning
 - [Food Recognition](https://github.com/lucamarini22/food-recognition-challenge)\
