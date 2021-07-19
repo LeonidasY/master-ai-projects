@@ -5,21 +5,22 @@ The following repository contains my student projects for the **Master in Artifi
 The projects were done for the course exams to deepen my practical knowledge of the theories taught. 
 
 ### Image Processing and Computer Vision
-- [Fruit Inspection](https://github.com/LeonidasY/master-ai-projects/tree/main/fruit-inspection)\
+- [Fruit Inspection](https://github.com/LeonidasY/master-ai-projects/tree/main/fruit-inspection?flush_cache=True)\
   Develop a computer vision system aimed at locating defects and imperfections on fruits.
-- [Product Recognition](https://github.com/LeonidasY/master-ai-projects/tree/main/product-recognition)\
+  
+- [Product Recognition](https://github.com/LeonidasY/master-ai-projects/tree/main/product-recognition?flush_cache=True)\
   Develop a computer vision system to identify instances of the product from images of a store shelf using keypoint descriptors.
   
 ### Fundamentals of Artificial Intelligence and Knowledge Representation
-- [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb)\
+- [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb?flush_cache=True)\
   Develop a Bayesian network to model and study the conditional dependencies between the causes of a state's collapse.
 
 ### Combinatorial Decision Making and Optimisation
-- [Lockdown Optimisation](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb)\
+- [Lockdown Optimisation](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb?flush_cache=True)\
   Develop a model to optimise the government's stay home policy during the COVID pandemic using non-linear programming.
 
 ### Machine Learning
-- [ECommerce Analysis](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/ecommerce-analysis/ecommerce-analysis.ipynb)\
+- [ECommerce Analysis](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/ecommerce-analysis/ecommerce-analysis.ipynb?flush_cache=True)\
   Analyse the transactions of an ecommerce data and develop a model to forecast future daily users over a period of 30 days.
 
 ### Deep Learning
