@@ -21,7 +21,7 @@ The projects were done for the course exams to deepen my practical knowledge of 
 
 ### Machine Learning
 - [Ecommerce Analysis](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/ecommerce-analysis/ecommerce-analysis.ipynb?flush_cache=True)\
-  Analyse the transactions of an ecommerce data and develop a model to forecast weekly sales over a future period of 8 weeks.
+  Analyse the transactions of an ecommerce data and develop models to apply time-series forecasting and clustering to gain more insights from the data.
 
 ### Deep Learning
 - [Food Recognition](https://github.com/lucamarini22/food-recognition-challenge)\
