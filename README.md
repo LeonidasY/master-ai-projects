@@ -9,7 +9,7 @@ The projects were done for the course exams to deepen my practical knowledge of 
   Develop a computer vision system aimed at locating defects and imperfections on fruits.
   
 - [Product Recognition](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/product-recognition/product-recognition.ipynb?flush_cache=True)\
-  Develop a computer vision system to identify instances of the product from images of a store shelf using keypoint descriptors.
+  Develop a computer vision system to identify instances of a product from images of a store shelf using keypoint descriptors.
   
 ### Fundamentals of Artificial Intelligence and Knowledge Representation
 - [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb?flush_cache=True)\
@@ -17,12 +17,12 @@ The projects were done for the course exams to deepen my practical knowledge of 
 
 ### Combinatorial Decision Making and Optimisation
 - [Lockdown Optimisation](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb?flush_cache=True)\
-  Develop a model to optimise the government's stay home policy during the COVID pandemic using non-linear programming.
+  Optimise a government's stay at home policy during the COVID pandemic using non-linear programming.
 
 ### Machine Learning
 - [Ecommerce Analysis](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/ecommerce-analysis/ecommerce-analysis.ipynb?flush_cache=True)\
-  Analyse the transactions of an ecommerce data and develop models to apply time-series forecasting and clustering to gain more insights from the data.
+  Analyse an ecommerce dataset and develop models to apply time-series forecasting and clustering to gain more insights from the data.
 
 ### Deep Learning
 - [Food Recognition](https://github.com/lucamarini22/food-recognition-challenge)\
-  Develop a computer vision system to recognise and segment food items in images from 273 different categories.
+  Develop a model to recognise and segment food items in images from 273 different categories.
