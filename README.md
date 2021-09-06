@@ -21,4 +21,4 @@ The projects were done for the course exams to deepen my practical knowledge of 
 
 ### Machine Learning
 - [Ecommerce Analysis](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/ecommerce-analysis/ecommerce-analysis.ipynb?flush_cache=True)\
-  Analyse an ecommerce dataset and develop models to apply descriptive analytics and time-series forecasting to gain more insights from the data.
+  Analyse an ecommerce dataset using descriptive analytics and develop a model to apply time-series forecasting to gain more insights from the data.
