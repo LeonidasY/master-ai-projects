@@ -1,8 +1,8 @@
 ## Master AI Projects
 
-The following repository contains my student projects for the **Master in Artificial Intelligence** at the **University of Bologna**. More information about the programme and its teaching contents can be found [here](https://corsi.unibo.it/2cycle/artificial-intelligence/course-structure-diagram/piano?code=9063&year=2020&manifest=en_2020_9063_000_000_2020). 
+The following repository contains my student projects for the **Master in Artificial Intelligence** at the **University of Bologna**. More information about the programme and its teaching contents can be found [here](https://corsi.unibo.it/2cycle/artificial-intelligence/course-structure-diagram/piano/2021/9063/000/000/2021). 
 
-The projects were done for the course exams to deepen my practical knowledge of the theories taught. 
+The projects were done for the course exams to deepen my practical knowledge of the theories taught.
 
 ### Image Processing and Computer Vision
 - [Fruit Inspection](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/fruit-inspection/fruit-inspection.ipynb?flush_cache=True)\
