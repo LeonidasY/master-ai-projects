@@ -9,12 +9,12 @@ The projects were done for the course exams to deepen my practical knowledge of 
   Develop a computer vision system aimed at locating defects and imperfections on fruits.
   
 - [Product Recognition](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/product-recognition/product-recognition.ipynb?flush_cache=false)\
-  Develop a computer vision system to identify instances of a product from images of a store shelf using keypoint descriptors.
+  Develop a computer vision system to identify products on a store shelf using keypoint descriptors.
   
 ### Fundamentals of Artificial Intelligence and Knowledge Representation
 - [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb?flush_cache=false)\
-  Develop a Bayesian network to model and study the conditional dependencies between the causes of a state's collapse.
+  Develop a Bayesian network to model the conditional dependencies between the causes of a state's collapse.
 
 ### Combinatorial Decision Making and Optimisation
 - [Lockdown Optimisation](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb?flush_cache=false)\
-  Optimise a government's stay at home policy during the COVID pandemic using non-linear programming.
+  Optimise a government's stay-at-home policy during the COVID pandemic using nonlinear programming.
