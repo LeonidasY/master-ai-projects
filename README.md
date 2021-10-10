@@ -18,3 +18,6 @@ The projects were done for the course exams to deepen my practical knowledge of 
 ### Combinatorial Decision Making and Optimisation
 - [Lockdown Optimisation](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb?flush_cache=false)\
   Optimise a government's stay-at-home policy during the COVID pandemic using nonlinear programming.
+  
+- [VLSI Design](https://github.com/LeonidasY/vlsi-design)\
+  Develop a program to solve a VLSI (Very Large Scale Integration) problem using constraint programming.
