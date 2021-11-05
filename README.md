@@ -10,10 +10,6 @@ The projects were done for the course exams to deepen my practical knowledge of 
   
 - [Product Recognition](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/product-recognition/product-recognition.ipynb?flush_cache=false)\
   Develop a computer vision system to identify products on a store shelf using keypoint descriptors.
-  
-### Fundamentals of Artificial Intelligence and Knowledge Representation
-- [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb?flush_cache=false)\
-  Develop a Bayesian network to model the conditional dependencies between the causes of a state's collapse.
 
 ### Combinatorial Decision Making and Optimisation
 - [Lockdown Optimisation](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb?flush_cache=false)\
@@ -21,3 +17,11 @@ The projects were done for the course exams to deepen my practical knowledge of 
   
 - [VLSI Design](https://github.com/LeonidasY/vlsi-design)\
   Develop a program to solve a VLSI (Very Large Scale Integration) problem using constraint programming.
+  
+  ### Deep Learning
+- [VLSI Design](https://github.com/lucamarini22/food-recognition-challenge)\
+  Develop an image segmentation model to segment and classify different food objects in images.
+  
+  ### Fundamentals of Artificial Intelligence and Knowledge Representation
+- [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb?flush_cache=false)\
+  Develop a Bayesian network to model the conditional dependencies between the causes of a state's collapse.
