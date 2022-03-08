@@ -25,3 +25,7 @@ The projects were done for the course exams to deepen my practical knowledge of 
 ### Fundamentals of Artificial Intelligence and Knowledge Representation
 - [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb?flush_cache=false)\
   Develop a Bayesian network to model the conditional dependencies between the causes of a state's collapse.
+  
+### Artificial Intelligence in Industry
+- [Medical Papers Summarization](https://github.com/LIA-UniBo/medical-papers-summarization)\
+  Develop a program to summarize long-form medical papers abstractively.
