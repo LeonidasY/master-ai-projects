@@ -5,14 +5,14 @@ The following repository contains my student projects for the **Master in Artifi
 The projects were done for the course exams to deepen my practical knowledge of the theories taught.
 
 ### Image Processing and Computer Vision
-- [Fruit Inspection](https://github.com/LeonidasY/master-ai-projects/blob/main/fruit-inspection/fruit-inspection.ipynb)\
+- [Fruit Inspection](https://github.com/LeonidasY/master-ai-projects/blob/main/fruit-inspection/main.ipynb)\
   Develop a program to locate defects and imperfections on fruits.
   
-- [Product Recognition](https://github.com/LeonidasY/master-ai-projects/blob/main/product-recognition/product-recognition.ipynb)\
+- [Product Recognition](https://github.com/LeonidasY/master-ai-projects/blob/main/product-recognition/main.ipynb)\
   Develop a program to identify products on a store shelf using keypoint descriptors.
 
 ### Combinatorial Decision Making and Optimisation
-- [Lockdown Optimisation](https://github.com/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb)\
+- [Lockdown Optimisation](https://github.com/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/main.ipynb)\
   Develop a program to optimise a government's stay-at-home policy during the COVID pandemic using nonlinear programming.
   
 - [VLSI Design](https://github.com/LeonidasY/vlsi-design)\
@@ -23,7 +23,7 @@ The projects were done for the course exams to deepen my practical knowledge of 
   Develop a program to perform semantic segmentation of different food objects.
   
 ### Fundamentals of Artificial Intelligence and Knowledge Representation
-- [State Collapse Network](https://github.com/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb)\
+- [State Collapse Network](https://github.com/LeonidasY/master-ai-projects/blob/main/state-collapse-network/main.ipynb)\
   Develop a program to model the conditional dependencies between the causes of a state's collapse using a Bayesian network.
   
 ### Natural Language Processing
