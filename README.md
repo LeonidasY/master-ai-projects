@@ -33,3 +33,7 @@ The projects were done for the course exams to deepen my practical knowledge of 
 ### Artificial Intelligence in Industry
 - [Medical Papers Summarization](https://github.com/LIA-UniBo/medical-papers-summarization)\
   Develop a program to perform abstractive summarization of long-form medical papers.
+  
+### Multi-Agent Systems
+- [Collaborating NLP Agents](https://gitlab.com/pika-lab/courses/mas/projects/mas-project-mizutani-gee-ay2122/-/tree/main)\
+  Develop a program to train a series of classifiers for solving a named-entity recognition task.
