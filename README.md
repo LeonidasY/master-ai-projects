@@ -1,18 +1,18 @@
-## Master AI Projects
+## Master in AI Projects
 
 The following repository contains my student projects for the **Master in Artificial Intelligence** at the **University of Bologna**. More information about the programme and its teaching contents can be found [here](https://corsi.unibo.it/2cycle/artificial-intelligence/course-structure-diagram/piano/2021/9063/000/000/2020). 
 
 The projects were done for the course exams to deepen my practical knowledge of the theories taught.
 
 ### Image Processing and Computer Vision
-- [Fruit Inspection](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/fruit-inspection/fruit-inspection.ipynb?flush_cache=false)\
+- [Fruit Inspection](https://github.com/LeonidasY/master-ai-projects/blob/main/fruit-inspection/fruit-inspection.ipynb)\
   Develop a program to locate defects and imperfections on fruits.
   
-- [Product Recognition](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/product-recognition/product-recognition.ipynb?flush_cache=false)\
+- [Product Recognition](https://github.com/LeonidasY/master-ai-projects/blob/main/product-recognition/product-recognition.ipynb)\
   Develop a program to identify products on a store shelf using keypoint descriptors.
 
 ### Combinatorial Decision Making and Optimisation
-- [Lockdown Optimisation](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb?flush_cache=false)\
+- [Lockdown Optimisation](https://github.com/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/lockdown-optimisation.ipynb)\
   Develop a program to optimise a government's stay-at-home policy during the COVID pandemic using nonlinear programming.
   
 - [VLSI Design](https://github.com/LeonidasY/vlsi-design)\
@@ -23,7 +23,7 @@ The projects were done for the course exams to deepen my practical knowledge of 
   Develop a program to perform semantic segmentation of different food objects.
   
 ### Fundamentals of Artificial Intelligence and Knowledge Representation
-- [State Collapse Network](https://nbviewer.jupyter.org/github/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb?flush_cache=false)\
+- [State Collapse Network](https://github.com/LeonidasY/master-ai-projects/blob/main/state-collapse-network/state-collapse-network.ipynb)\
   Develop a program to model the conditional dependencies between the causes of a state's collapse using a Bayesian network.
   
 ### Natural Language Processing
