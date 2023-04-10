@@ -6,34 +6,34 @@ The projects were done for the course exams to deepen my practical knowledge of 
 
 ### Image Processing and Computer Vision
 - [Fruit Inspection](https://github.com/LeonidasY/master-ai-projects/blob/main/fruit-inspection/main.ipynb)\
-  Develop a program to locate defects and imperfections on fruits.
+  Developed a program to locate defects and imperfections on fruits.
   
 - [Product Recognition](https://github.com/LeonidasY/master-ai-projects/blob/main/product-recognition/main.ipynb)\
-  Develop a program to identify products on a store shelf using keypoint descriptors.
+  Developed a program to identify products on a store shelf using keypoint descriptors.
 
 ### Combinatorial Decision Making and Optimisation
 - [Lockdown Optimisation](https://github.com/LeonidasY/master-ai-projects/blob/main/lockdown-optimisation/main.ipynb)\
-  Develop a program to optimise a government's stay-at-home policy during the COVID pandemic using nonlinear programming.
+  Developed a program to optimise a government's stay-at-home policy during the COVID pandemic using nonlinear programming.
   
 - [VLSI Design](https://github.com/LeonidasY/vlsi-design)\
-  Develop a program to solve a VLSI (Very Large Scale Integration) problem using constraint programming.
+  Developed a program to solve a VLSI (Very Large Scale Integration) problem using constraint programming.
   
 ### Deep Learning
 - [Food Recognition Challenge](https://github.com/lucamarini22/food-recognition-challenge)\
-  Develop a program to perform semantic segmentation of different food objects.
+  Developed a program to perform semantic segmentation of different food objects.
   
 ### Fundamentals of Artificial Intelligence and Knowledge Representation
 - [State Collapse Network](https://github.com/LeonidasY/master-ai-projects/blob/main/state-collapse-network/main.ipynb)\
-  Develop a program to model the conditional dependencies between the causes of a state's collapse using a Bayesian network.
+  Developed a program to model the conditional dependencies between the causes of a state's collapse using a Bayesian network.
   
 ### Natural Language Processing
 - [Hate Speech Spreader Detection](https://github.com/annafabris/Hate-Speech-Spreader-Detection)\
-  Develop a program to detect hate speech spreaders on Twitter.
+  Developed a program to detect hate speech spreaders on Twitter.
   
 ### Artificial Intelligence in Industry
 - [Medical Papers Summarisation](https://github.com/LIA-UniBo/medical-papers-summarisation)\
-  Develop a program to perform abstractive summarisation of long-form medical papers.
+  Developed a program to perform abstractive summarisation of long-form medical papers.
   
 ### Multi-Agent Systems
 - [Collaborating NLP Agents](https://gitlab.com/pika-lab/courses/mas/projects/mas-project-mizutani-gee-ay2122/-/tree/main)\
-  Develop a program to train a series of classifiers for solving a named-entity recognition task.
+  Developed a program to train a series of classifiers for solving a named-entity recognition task.
